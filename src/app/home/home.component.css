@@ -1,6 +1,8 @@
-/* body{
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbZwf1xGh9n8HCjVHjsZMvy4RS2TKJVgSLQg&usqp=CAU);
-} */
+body{
+    background-image: url(../../assets/images/skb.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .card{
     padding: 3%;
 }
