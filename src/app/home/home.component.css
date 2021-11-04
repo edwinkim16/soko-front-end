@@ -1,8 +1,4 @@
-body{
-    background-image: url(../../assets/images/skb.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+
 .card{
     padding: 3%;
 }
@@ -11,4 +7,7 @@ body{
     box-shadow: 6px 5px 6px #2196F3;
     cursor: pointer;
     
+}
+* {
+    font-family: 'Lora', serif;
 }
