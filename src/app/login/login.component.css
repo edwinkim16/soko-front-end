@@ -1,6 +1,6 @@
 input,
 textarea {
-  background-color: #f3e5f5;
+  
   border-radius: 50px !important;
   padding: 12px 15px 12px 15px !important;
   width: 100%;
@@ -31,7 +31,7 @@ button:focus {
 
 .card {
   border-radius: 0;
-  /* border: none */
+  
 }
 
 .card1 {
@@ -41,7 +41,9 @@ button:focus {
 
 .card2 {
   width: 50%;
-  background-image: linear-gradient(to right, #ffd54f, #d500f9);
+  background-color :#20bf55;
+  background-image :linear-gradient(315deg, #20bf55 0%, #01baef 74%);
+ 
 }
 
 #logo {
@@ -78,17 +80,20 @@ button:focus {
 
 .btn-color {
   border-radius: 50px;
+  
   color: #fff;
-  background-image: linear-gradient(to right, #ffd54f, #d500f9);
+  
   padding: 15px;
   cursor: pointer;
+  background-color: #1289A7;
   border: none !important;
   margin-top: 40px;
 }
 
+
 .btn-color:hover {
   color: #fff;
-  background-image: linear-gradient(to right, #d500f9, #ffd54f);
+  
 }
 
 .btn-white {
@@ -100,10 +105,7 @@ button:focus {
   border: 2px solid #d500f9 !important;
 }
 
-.btn-white:hover {
-  color: #fff;
-  background-image: linear-gradient(to right, #ffd54f, #d500f9);
-}
+
 
 a {
   color: #000;
