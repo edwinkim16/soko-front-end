@@ -9,7 +9,7 @@ export class UserAuthService {
   constructor(private http: HttpClient) {}
 
   url = 'http://flash-cards-rest-api.herokuapp.com/api/';
-  url2='https://sokobackend.herokuapp.com/api/'
+  url2='https://sokobackend.herokuapp.com/app/api/'
 
   token = '1eef31a091e8582786d3ab68db0e7104d0ad2530';
   edu='e88ee03fb306c1e1f4757465bc514e77de1f740c'
