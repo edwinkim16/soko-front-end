@@ -1,0 +1,18 @@
+.btn {
+    display: none;
+  }
+  
+  .wrapper:hover .btn {
+    display: inline-block;
+  }
+
+  img:hover {
+    -ms-transform: scale(2); 
+    -webkit-transform: scale(1); 
+    transform: scale(1.5); 
+  }  
+
+img{
+    height: 100px;
+    width: auto;
+}  
