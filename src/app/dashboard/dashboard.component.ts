@@ -11,7 +11,7 @@ export class DashboardComponent implements OnInit {
   constructor() {}
 
   getName(){
-    alert("we will get back to you")
+    alert("added to cart")
   }
 
   ngOnInit(): void {
